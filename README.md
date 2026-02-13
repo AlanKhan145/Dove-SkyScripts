@@ -10,8 +10,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2310.08276-b31b1b.svg)](https://arxiv.org/abs/2310.08276)
 [![Dataset](https://img.shields.io/badge/Dataset-SkyScript-green.svg)](https://github.com/wangzhecheng/SkyScript)
 
-[English](README.md) | [中文](README_zh.md) | [Tiếng Việt](README_vi.md)
-
 </div>
 
 ---
